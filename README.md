@@ -1,4 +1,8 @@
-## Hi there 👋
+## introduce
+안녕하세요 영남대 컴퓨터공학 전공 2학년생 정도현입니다.
+
+## e-mail
+- jstnr10@gmail.com
 
 <!--
 **jstnr10/jstnr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
