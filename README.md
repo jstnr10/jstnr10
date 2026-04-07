@@ -6,6 +6,10 @@
 
 ## 희망 진로
 > 백엔드, 클라우드 엔지니어, 데이터 엔지니어, 전산직
+
+### 관심 분야
+> SW 및 HW 개발
+> 서버 및 데이터 유지보수
 <!--
 **jstnr10/jstnr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
